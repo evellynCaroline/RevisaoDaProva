@@ -1,0 +1,13 @@
+C:\Users\2022102020013.IFRO\Desktop\poo\revisao da prova\revisao da prova\bin\Debug\revisao da prova.exe.config
+C:\Users\2022102020013.IFRO\Desktop\poo\revisao da prova\revisao da prova\bin\Debug\revisao da prova.exe
+C:\Users\2022102020013.IFRO\Desktop\poo\revisao da prova\revisao da prova\bin\Debug\revisao da prova.pdb
+C:\Users\2022102020013.IFRO\Desktop\poo\revisao da prova\revisao da prova\obj\Debug\revisao da prova.csproj.AssemblyReference.cache
+C:\Users\2022102020013.IFRO\Desktop\poo\revisao da prova\revisao da prova\obj\Debug\revisao da prova.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020013.IFRO\Desktop\poo\revisao da prova\revisao da prova\obj\Debug\revisao_da_prova.Properties.Resources.resources
+C:\Users\2022102020013.IFRO\Desktop\poo\revisao da prova\revisao da prova\obj\Debug\revisao da prova.csproj.GenerateResource.cache
+C:\Users\2022102020013.IFRO\Desktop\poo\revisao da prova\revisao da prova\obj\Debug\revisao da prova.csproj.CoreCompileInputs.cache
+C:\Users\2022102020013.IFRO\Desktop\poo\revisao da prova\revisao da prova\obj\Debug\revisao da prova.exe
+C:\Users\2022102020013.IFRO\Desktop\poo\revisao da prova\revisao da prova\obj\Debug\revisao da prova.pdb
+C:\Users\2022102020013.IFRO\Desktop\poo\revisao da prova\revisao da prova\obj\Debug\revisao_da_prova.Menu.resources
+C:\Users\2022102020013.IFRO\Desktop\poo\revisao da prova\revisao da prova\obj\Debug\revisao_da_prova.Divisao.resources
+C:\Users\2022102020013.IFRO\Desktop\poo\revisao da prova\revisao da prova\obj\Debug\revisao_da_prova.Multiplicacao.resources
